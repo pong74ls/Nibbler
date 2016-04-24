@@ -1,0 +1,5 @@
+-IC sockets are optional for the logic gates.  If you are not using sockets then the bypass capacitors can be mounted on the opposite side of the board.
+-R15 limits current to the LCD backlight.  Some modules have the current limiting resistor built-in, in which case a wire can be used for R15.
+-Tabs on the bottom of the LCD module may not clear R15 or other resistors.  The resistors can be mounted on the opposite side of the board or the LCD panel mounted higher off the board.
+-A 62256 SRAM IC is pin compatible with the CY7C199N SRAM and should work as a substitute.  However the pin spacing is wider and will need an adapter socket.
+-(Version 1 Only) Some traces are very close the the LCD mounting holes.  Either use nylon hardware or insulating washers to avoid shorting out the traces.

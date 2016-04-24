@@ -1,0 +1,7 @@
+The program ROM can store up to 32 different programs, which are selected using the address jumpers. The programs included in the "\Schematics - Proteus Design Suite\Nibbler Program Collection.bin" are:
+00000-00FFFh: Guess the Number
+01000-01FFFh: Frogger
+02000-02FFFh: Mastermind
+03000-03FFFh: Music Waltz
+04000-04FFFh: Test RAM
+

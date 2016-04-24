@@ -1,0 +1,9 @@
+Version 1 PCB:
+-First version.
+
+Version 2 PCB:
+-Added a "Version 2" label to bottom silkscreen.
+-Rerouted traces around LCD mounting holes for better clearance.
+-Moved SW4 up by 0.025" to make spacing symmetrical with other buttons.
+-Moved decoupling capacitor labels to bottom silkscreen.
+-Moved R15 to interfere less with LCD bottom side.

@@ -1,0 +1,5 @@
+The following major changes were made to the original wire-wrapped Nibbler design:
+-Used CY7C199CN static ram instead of CY7C168A
+-Used SST39SF010A flash ROM instead of 28C16/28C64 EEPROMs
+-Added jumpers to take advantage of larger program ROM size, up to 32 programs can be stored
+-Added transient supression diode to reset switch circuit, the rise time of input is probably way too slow for a non-Schmitt Trigger input but it seems to work
