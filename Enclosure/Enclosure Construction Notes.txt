@@ -1,0 +1,8 @@
+-The PCB layout was not originally designed with an enclosure.  Some compromises were made such as
+the need to extend the switches and program jumpers and placing some parts on the bottom of the board.
+-Case was designed to be laser cut from 3mm acrylic sheet.
+-Top cover is held with 15mm long M3 nylon standoffs.
+-Bottom cover is held with 6mm long M3 nylon standoffs.
+-LCD panel is held using M2.5 nylon screws, a nut and washer are used to provide clearance between the PCBs.
+-Button extensions were printed using 0.2mm layer height and 10% infill.
+-Some sanding will probably be required to get the extension to fit on the button properly.
